@@ -1,0 +1,154 @@
+#stripe
+{
+	background:orange;
+	height:20px;
+	width:100%;
+}
+body
+{
+	background-color:white;
+}
+#container
+{
+	background-color:white;
+
+	width:70%;
+	margin:0px auto;
+}
+#header
+{
+	background-color:white;
+	height:60px;
+
+}
+#header img {
+    width: 25%;
+    height: 50%;
+    padding: 10px;
+}
+
+
+
+#header ul{
+	float:right;
+}
+#header ul li
+{
+	display:inline;
+	padding:10px;
+}
+#header ul li a
+{
+	color:gray;
+	text-decoration:none;
+	font-size:20px;
+}
+
+#banner img
+{
+	height:500px;
+	width:100%;
+	overflow:hidden;
+}
+#c1
+{
+	background-color:orange;
+	width:32%;
+	height:200px;
+	float:left;
+}
+#c2
+{
+	background-color:blue;
+	width:32%;
+	height:200px;
+	margin-left:2%;
+	float:left;
+}
+#c3
+{
+	background-color:pink;
+	width:32%;
+	height:200px;
+	margin-left:2%;
+	float:right;
+}
+.type
+{
+	font-size.20px;
+	margin-left:20px;
+}
+p{
+	margin-left:20px;
+}
+.more
+{
+	text-decoration:none;
+	color:black;
+	background:white;
+	padding:10px;
+	border:solid;
+	border-radius:10px;
+	margin-left:10px;
+	margin-top:3px;
+}
+.more:hover
+{
+	color:pink;
+	background-color:green;
+}
+#bottom1
+{
+	margin-top:15px;
+
+	width:70%;
+	float:left;
+}
+#bottom2
+{
+	margin-top:15px;
+	width:28%;
+	float:right;
+}
+#bottom1 h1 
+{
+	margin-bottom:10px;
+	color:black;
+}
+#bottom1 h1 p{
+	margin-bottom:10px;
+	color:black;
+}
+#bottom2 h1 
+{
+	margin-bottom:10px;
+	color:black;
+}
+#bottom2 h1 p{
+	margin-bottom:10px;
+	color:black;
+}
+img
+{
+	width:70%;
+	height:40%;
+	padding:10px;
+}
+#footer
+{
+	background-color:black;
+	height:50px;
+	width:100%;
+	clear:both;
+}
+#footer ul li
+{
+	display:inline;
+	padding:10px;
+}
+#footer ul li a
+{
+	color:gray;
+	text-decoration:none;
+	font-size:20px;
+}
